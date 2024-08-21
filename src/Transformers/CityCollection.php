@@ -3,7 +3,7 @@
 namespace Mrlinnth\Mmrc\Transformers;
 
 use Illuminate\Http\Resources\Json\ResourceCollection;
-use Mrlinnth\Mmrc\Transformers\CityResource;
+// use Mrlinnth\Mmrc\Transformers\CityResource;
 
 class CityCollection extends ResourceCollection
 {

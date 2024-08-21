@@ -3,7 +3,7 @@
 namespace Mrlinnth\Mmrc\Transformers;
 
 use Illuminate\Http\Resources\Json\ResourceCollection;
-use Mrlinnth\Mmrc\Transformers\RegionResource;
+// use Mrlinnth\Mmrc\Transformers\RegionResource;
 
 class RegionCollection extends ResourceCollection
 {
