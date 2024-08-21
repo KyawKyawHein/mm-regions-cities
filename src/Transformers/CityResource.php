@@ -2,10 +2,10 @@
 
 namespace Mrlinnth\Mmrc\Transformers;
 
-use Illuminate\Http\Resources\Json\Resource;
+use Illuminate\Http\Resources\Json\JsonResource;
 use Mrlinnth\Mmrc\Transformers\RegionResource;
 
-class CityResource extends Resource
+class CityResource extends JsonResource
 {
     /**
      * Transform the resource into an array.
